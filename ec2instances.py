@@ -7,7 +7,7 @@
 import sys
 import awshelper
 
-AWS_ACCESS_KEY = "AKIAQU4OL7HG2LKJDSV"
+AWS_ACCESS_KEY = "AKIAQU4OL7HG2LKJDSVL"
 AWS_SECRET_KEY = "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"
 
 def print_menu():
